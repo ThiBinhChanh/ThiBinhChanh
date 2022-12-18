@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/ThiBinhChanh/logo/blob/main/giphy.gif?raw=true" width="200"/>
+  <img src="https://media2.giphy.com/media/Xnq5qNeRpnrQZvX9Gq/giphy.gif?cid=790b7611601f146655c522acbf4da46e7a40622831f9cba3&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <h2 align="center">Hello there  <img src="https://cdn-icons-png.flaticon.com/512/196/196849.png" width="50"/> My nickname is KULBOY </img> </h2>
 <h3 align="center">Just start</h3>
