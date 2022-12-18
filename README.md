@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://github.com/ThiBinhChanh/logo/blob/main/giphy.gif?raw=true" width="200"/>
 </div>
-<h2 align="center">Hello there, My nickname is KULBOY</h1>
+<h2 align="center">Hello there  <img src="" width="50"/>, My nickname is KULBOY > </img> </h2>
 <h3 align="center">Just start</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulboy&label=Profile%20views&color=0e75b6&style=flat" alt="kulboy" /> </p>
