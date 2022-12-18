@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Thanks for visiting**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">THIS IS SOMETHING ABOUT ME </h3>
 <p align="left">
 </p>
 
