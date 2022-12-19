@@ -1,3 +1,7 @@
+<p align="center"> 
+ Tổng lượt truy cập<br>
+  <img src="https://profile-counter.glitch.me/ThiBinhChanh/count.svg" />
+</p>
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/Xnq5qNeRpnrQZvX9Gq/giphy.gif?cid=790b7611601f146655c522acbf4da46e7a40622831f9cba3&rid=giphy.gif&ct=s" width="200"/>
