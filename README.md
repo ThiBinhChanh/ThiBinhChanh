@@ -9,7 +9,7 @@
 <h2 align="center">Hello there  <img src="https://cdn-icons-png.flaticon.com/512/196/196849.png" width="50"/> My nickname is KULBOY </img> </h2>
 <h3 align="center">Just start</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kulboy&label=Profile%20views&color=0e75b6&style=flat" alt="kulboy" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulboy&label=Profile%20views&color=0e75b6&style=flat" alt="kulboy" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulboy" alt="kulboy" /></a> </p> -->
 
