@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **leducthi9@gmail.com**
 
-- /*⚡ Fun fact */ **Thanks for visiting**
+- ⚡ **Thanks for visiting**
 
 <h3 align="left">ABOUT ME </h3>
 <p align="left">
