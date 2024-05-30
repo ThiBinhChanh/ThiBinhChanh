@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ThiBinhChanh/](https://github.com/ThiBinhChanh/)
 
-- 💬 I want to be a exellent **TESTER*
+- 💬 I want to be a exellent *TESTER*
 
 - 📫 How to reach me **leducthi9@gmail.com**
 
